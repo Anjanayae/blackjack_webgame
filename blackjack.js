@@ -1,4 +1,3 @@
-// Improved Blackjack Game Logic with Live Sum Updates and Restart Feature
 let dealerSum = 0;
 let yourSum = 0;
 
